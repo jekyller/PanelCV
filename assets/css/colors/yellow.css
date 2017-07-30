@@ -1,0 +1,224 @@
+/* ========================================================================================= */
+/* ===================================== Yellow #FDB000 ==================================== */
+/* ========================================================================================= */
+
+.btn-primary {
+    background: #FDB000;
+}
+.btn-primary:hover {
+    background: #FDB000;
+}
+a {
+    color: #FDB000;
+}
+.icon_menu {
+    background: #fff !important;
+    color: #FDB000;
+}
+.icon_menu_active, .icon_menu_hover {
+    background: #FDB000 !important;
+    color: #fff !important;
+    transition-property: background-color;
+    transition-duration: 0.3s;
+    transition-timing-function: linear;
+}
+.mCSB_dragger_bar {
+    background: #FDB000 !important;
+}
+#style-2::-webkit-scrollbar-thumb {
+    background-color:#FDB000;
+}
+.span-info {
+    color: #FDB000;
+}
+#contactform .submit:hover, #comment_form .submit:hover {
+    webkit-filter: brightness(98%) !important;
+}
+#profile .col-md-5 h2, #profile .col-md-5 h4, #resume .col-md-6 p, #resume .col-md-6 span.duration {
+    color: #FDB000;
+}
+#resume .resume-left ul li h5 {
+    border-bottom: 1px solid #FDB000;
+}
+.attributes span.glyphicon, .attributes h6 {
+    color: #FDB000;
+}
+.blog-article a.read_m:hover {
+    border: 1px solid #FDB000;
+    background-color: #FDB000;
+}
+.border-list {
+    border: 1px solid #FDB000;
+}
+.content-post h1 {
+    color: #FDB000;
+}
+a.readmore:hover, a.readmore:focus, a.readmore:active {
+    border: 1px solid #FDB000;
+    background-color: #FDB000;
+}
+.border-list {
+    border: 1px solid #FDB000;
+}
+.content-post h1 {
+    color: #FDB000;
+}
+a.readmore:hover, a.readmore:focus, a.readmore:active {
+    border: 1px solid #FDB000;
+    background-color: #FDB000;
+}
+.ch-info-prof {
+    background: rgba(76, 173, 252, 0.6);
+}
+#profile .col-md-6 h1 {
+    color: #FDB000;
+}
+.download:hover span, .download:focus span {
+    background: #FDB000;
+}
+.download span::before {
+    color: #FDB000;
+}
+.download span, .ch-info .ch-info-back {
+    background: #FDB000;
+}
+.resp-tabs-container h1 {
+    color: #FDB000 !important;
+    background: url(../../images/arrows-h3/arrow-yellow-h3.png) no-repeat 0px 3px;
+}
+
+@media screen and (max-width:540px) {
+    .content-inner {
+        border-top: 5px solid #FDB000;
+    }
+}
+#contactform .submit, #comment_form .submit {
+    background-color: #FDB000;
+}
+#profile .about i.glyphicon, #profile .about label {
+    color: #FDB000;
+}
+#section-title, #categories_sidebar ul.categories li a:hover {
+    background: #FDB000;
+}
+#tags .tags_sidebar .tags-list li {
+    border: 1px solid #FDB000;
+    color: #FDB000;
+}
+#tags .tags_sidebar .tags-list li a {
+    color: #FDB000;
+}
+#tags .tags_sidebar .tags-list li:hover {
+    background: #FDB000;
+}
+h2.resp-accordion:hover .hi-icon, .no-touch .hi-icon-effect-5 .hi-icon:hover {
+    border: 1px solid #FDB000 !important;
+}
+@media only screen and (max-width: 800px) {
+    .icon_menu_active, .icon_menu_hover {
+        background: #fff !important;
+        color: #FDB000 !important;
+        transition-property: background-color;
+        transition-duration: 0.3s;
+        transition-timing-function: linear;
+    }
+    h2.resp-accordion {
+        background: #FDB000  !important;
+    }
+    h2.resp-accordion:hover {
+        background: rgba(253, 176, 0, 0.8) !important;
+    }
+    h2.resp-tab-active {
+        background: rgba(253, 176, 0, 0.8) !important;
+    }
+}
+.title_content:after, .icon_content {
+    background: #FDB000;
+}
+.text_content {
+    color: #FDB000;
+}
+.panel-default>.panel-heading {
+    color: #fff;
+    background-color: #FDB000;
+}
+.nbs-flexisel-inner {
+    border: 5px solid #FDB000;
+}
+#nb_post, .reply, .tag, .info-post i.glyphicon, .info i.glyphicon, i.fa-quote-left {
+    color: #FDB000 !important;
+}
+.modal-header {
+    background: #FDB000;
+}
+.skillbar-title, .skillbar-bar {
+    background: rgba(253, 176, 0, 0.8);
+}
+.portfolio .label-bg, #filters li span.active {
+    background: #FDB000;
+}
+.portfolio .label-bg, #filters li span:hover  {
+    background: #FDB000;
+    -webkit-transition: all .3s ease-in;
+    -moz-transition: all .3s ease-in;
+    -o-transition: all .3s ease-in;
+    transition: all .3s ease-in;
+}
+#sidebar-right .search-blog i, #sidebar-left .search-blog i {
+    background: #FDB000;
+}
+.icon-switcher {	
+    color: #FDB000 !important;
+}
+.resp-tabs-list li {
+    background: #FDB000;
+    color: #fff;
+}
+#services .pack-service .service-icon i {
+    border: 3px solid #FDB000;
+    color: #FDB000;
+    background: #fff;
+}
+#services .pack-service:hover .service-icon i {
+    background: #FDB000;
+}
+.widget-profil{
+    background: #FDB000;   
+}
+.widget-profil .head-image{
+    border: 10px solid #ffc031;
+}
+.widget-profil  h1 {
+    color:#ffe7b1;
+}
+.widget-profil .circle-img {
+    border: 10px solid #ffc031;
+}
+.widget-profil  h4 {
+    color:#ffe7b1; 
+}
+.widget-profil  h6 {
+    color:#ffe7b1; 
+}
+.widget-profil  p {
+    color:#ffe7b1 !important;
+}
+.widget-profil #profile_desc {
+    border-bottom: 1px solid #ffe7b1;
+    border-top: 1px solid #ffe7b1;
+}
+#profile_social a:hover {
+    color : #FDB000;
+}
+#profile_social a{
+    background-color: #FDB000;
+}
+#blog .post_media {
+    border-top: 5px solid #FDB000;
+}
+#blog .post_media  .post-format-icon {
+    background: #FDB000;
+}
+.reference span {
+    color : #FDB000;
+}

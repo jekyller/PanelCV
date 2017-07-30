@@ -1,0 +1,221 @@
+/* ========================================================================================= */
+/* ==================================== DarkBlue #3B5998 =================================== */
+/* ========================================================================================= */
+
+.btn-primary {
+    background: #3B5998;
+}
+.btn-primary:hover {
+    background: #3B5998;
+}
+a {
+    color: #3B5998;
+}
+.icon_menu {
+    background: #fff !important;
+    color: #3B5998;
+}
+.icon_menu_active, .icon_menu_hover {
+    background: #3B5998 !important;
+    color: #fff !important;
+    transition-property: background-color;
+    transition-duration: 0.3s;
+    transition-timing-function: linear;
+}
+.mCSB_dragger_bar {
+    background: #3B5998 !important;
+}
+#style-2::-webkit-scrollbar-thumb {
+    background-color:#3B5998;
+}
+.span-info {
+    color: #3B5998;
+}
+#contactform .submit:hover, #comment_form .submit:hover {
+    webkit-filter: brightness(98%) !important;
+}
+#profile .col-md-5 h2, #profile .col-md-5 h4, #resume .col-md-6 p, #resume .col-md-6 span.duration {
+    color: #3B5998;
+}
+#resume .resume-left ul li h5 {
+    border-bottom: 1px solid #3B5998;
+}
+.attributes span.glyphicon, .attributes h6 {
+    color: #3B5998;
+}
+.blog-article a.read_m:hover {
+    border: 1px solid #3B5998;
+    background-color: #3B5998;
+}
+.border-list {
+    border: 1px solid #3B5998;
+}
+.content-post h1 {
+    color: #3B5998;
+}
+a.readmore:hover, a.readmore:focus, a.readmore:active {
+    border: 1px solid #3B5998;
+    background-color: #3B5998;
+}
+.border-list {
+    border: 1px solid #3B5998;
+}
+.content-post h1 {
+    color: #3B5998;
+}
+a.readmore:hover, a.readmore:focus, a.readmore:active {
+    border: 1px solid #3B5998;
+    background-color: #3B5998;
+}
+.ch-info-prof {
+    background: rgba(76, 173, 252, 0.6);
+}
+#profile .col-md-6 h1 {
+    color: #3B5998;
+}
+.download:hover span, .download:focus span {
+    background: #3B5998;
+}
+.download span::before{
+    color: #3B5998;
+}
+.download span, .ch-info .ch-info-back {
+    background: #3B5998;
+}
+.resp-tabs-container h1 {
+    color: #3B5998 !important;
+    background: url(../../images/arrows-h3/arrow-DarkBlue-h3.png) no-repeat 0px 3px;
+}
+
+@media screen and (max-width:540px) {
+    .content-inner {
+        border-top: 5px solid #3B5998;
+    }
+}
+#contactform .submit, #comment_form .submit {
+    background-color: #3B5998;
+}
+#profile .about i.glyphicon, #profile .about label {
+    color: #3B5998;
+}
+#section-title, #categories_sidebar ul.categories li a:hover {
+    background: #3B5998;
+}
+#tags .tags_sidebar .tags-list li {
+    border: 1px solid #3B5998;
+    color: #3B5998;
+}
+#tags .tags_sidebar .tags-list li a {
+    color: #3B5998;
+}
+#tags .tags_sidebar .tags-list li:hover {
+    background: #3B5998;
+}
+h2.resp-accordion:hover .hi-icon, .no-touch .hi-icon-effect-5 .hi-icon:hover {
+    border: 1px solid #3B5998 !important;
+}
+@media only screen and (max-width: 800px) {
+    .icon_menu_active, .icon_menu_hover {
+        background: #fff !important;
+        color: #3B5998 !important;
+        transition-property: background-color;
+        transition-duration: 0.3s;
+        transition-timing-function: linear;
+    }
+    h2.resp-accordion {
+        background: #3B5998 !important;
+    }
+    h2.resp-accordion:hover {
+        background: rgba(59, 89, 152, 0.8) !important;
+    }
+    h2.resp-tab-active {
+        background: rgba(59, 89, 152, 0.8) !important;
+    }
+}
+.title_content:after, .icon_content {
+    background: #3B5998;
+}
+.text_content {
+    color: #3B5998;
+}
+.panel-default>.panel-heading {
+    color: #fff;
+    background-color: #3B5998;
+}
+.nbs-flexisel-inner {
+    border: 5px solid #3B5998;
+}
+.modal-header {
+    background: #3B5998;
+}
+.skillbar-title, .skillbar-bar {
+    background: rgba(59, 89, 152, 0.8);
+}
+.portfolio .label-bg, #filters li span.active {
+    background: #3B5998;
+}
+.portfolio .label-bg, #filters li span:hover  {
+    background: #3B5998;
+    -webkit-transition: all .3s ease-in;
+    -moz-transition: all .3s ease-in;
+    -o-transition: all .3s ease-in;
+    transition: all .3s ease-in;
+}
+#sidebar-right .search-blog i, #sidebar-left .search-blog i {
+    background: #3B5998;
+}
+.icon-switcher {	
+    color: #3B5998 !important;
+}
+.resp-tabs-list li {
+    background: #3B5998;
+    color: #fff;
+}
+#services .pack-service .service-icon i {
+    border: 3px solid #3B5998;
+    color: #3B5998;
+    background: #fff;
+}
+#services .pack-service:hover .service-icon i {
+    background: #3B5998;
+}
+.widget-profil{
+    background: #3B5998;   
+}
+.widget-profil .head-image{
+    border: 10px solid #4c70ba;
+}
+.widget-profil .circle-img {
+    border: 10px solid #4c70ba;
+}
+.widget-profil  h1 {
+    color:#839ccf;
+}
+.widget-profil  h4 {
+    color:#839ccf; 
+}
+.widget-profil  h6 {
+    color:#839ccf; 
+}
+.widget-profil  p {
+    color:#839ccf !important;
+}
+.widget-profil #profile_desc {
+    border-bottom: 1px solid #839ccf;
+    border-top: 1px solid #839ccf;
+}
+#profile_social a:hover {
+    color : #3B5998;
+}
+#profile_social a{
+    background-color: #3B5998;
+}
+#blog .post_media {
+    border-top: 5px solid #3B5998;
+}
+#blog .post_media  .post-format-icon {
+    background: #3B5998;
+}
+.reference span {
+    color : #3B5998;
+}

@@ -1,0 +1,319 @@
+---
+layout: default
+---
+
+
+<!--[if lt IE 7]>
+        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+<![endif]-->
+
+<!-- Laoding page -->
+<!-- <div id="preloader"><div id="spinner"></div></div> -->
+
+<!-- .slideshow -->
+<ul class="cb-slideshow" id="cb_slideshow" style="display:none">
+    <li><span>Image 01</span><div></div></li>
+    <li><span>Image 02</span><div></div></li>
+    <li><span>Image 03</span><div></div></li>
+    <li><span>Image 04</span><div></div></li>
+    <li><span>Image 05</span><div></div></li>
+    <li><span>Image 06</span><div></div></li>
+</ul> 
+<!-- /.slideshow --> 
+
+<!-- .wrapper --> 
+<div class="wrapper">
+
+<!--- .Content --> 
+<section class="tab-content">
+<div class="container">
+
+<div class="row">
+
+<div class="col-md-12">
+
+<div class="row">   
+
+<!-- profile -->
+<div class="col-md-3 widget-profil">
+<div class="row">
+
+    <!-- Profile Image -->
+    <div class="col-lg-12 col-md-12 col-sm-3 col-xs-12 ">
+    	 
+		 
+                                
+         <div class="image-holder one" id="pic_prof_1" style="display:block">
+        
+                <img class="head-image up circle" src="images/img/up.png" width="150" height="150" alt="" />
+                <img class="head-image up-left circle" src="images/img/upleft.png" width="150" height="150" alt="" />
+                <img class="head-image left circle" src="images/img/left.png" width="150" height="150" alt="" />
+                <img class="head-image down-left circle" src="images/img/downleft.png" width="150" height="150" alt="" />
+                <img class="head-image down circle" src="images/img/down.png" width="150" height="150" alt="" />
+                <img class="head-image down-right circle" src="images/img/downright.png" width="150" height="150" alt="" />
+                <img class="head-image right circle" src="images/img/right.png" width="150" height="150" alt="" />
+                <img class="head-image up-right circle" src="images/img/upright.png" width="150" height="150" alt="" />
+                <img class="head-image front circle" src="images/img/front.png" width="150" height="150" alt="" />
+                
+        </div>
+        
+        <!-- style for simple image profile -->		
+   		<div class="circle-img" id="pic_prof_2" style="display:none"></div>
+       
+    
+    </div>
+    <!-- End Profile Image -->
+  
+    <!-- Begin profile information -->
+    <div class="col-lg-12 col-md-12 col-sm-9 col-xs-12">
+        <!-- Profile info -->
+        <div id="profile_info">
+            <h1 id="name" class="transition-02">{{ site.yourname }}</h1>
+            <h4 class="line">{{ site.title }}</h4>
+            <h6><span class="fa fa-map-marker"></span> {{ site.location }}</h6>
+        </div>
+        <!-- End Profile info -->  
+    	
+        
+        <!-- Profile Description -->
+        <div id="profile_desc">
+            <p>
+            	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac risus nibh. Donec adipiscing luctus tur
+            </p>
+            
+        </div>
+        <!-- End Profile Description -->  
+    	
+        
+        <!-- Name -->
+         <div id="profile_social">
+            <h6>My Social Profiles</h6>
+			
+            <a href="{{site.facebook}}"><i class="fa fa-facebook"></i></a>
+            <a href="{{site.twitter}}"><i class="fa fa-twitter"></i></a>
+            <a href="{{site.linkedin}}"><i class="fa fa-linkedin"></i></a>
+            <a href="{{site.dribbble}}"><i class="fa fa fa-dribbble"></i></a>
+            <a href="{{site.foursquare}}"><i class="fa fa-foursquare"></i></a>
+            <div class="clear"></div>
+        </div>
+        <!-- End Name -->  
+
+        <div id="profile_desc">
+            <p>
+                More Templates <a href="http://www.cssmoban.com/" target="_blank" title="jekyller" color="#FF0000">Jekyller</a> and  <a href="https://themeforest.net/item/flexyvcard-responsive-vcard-template-/7158750" target="_blank" title="flexycodes">Flexycodex</a>
+            </p>
+
+        </div>
+
+    </div>
+    <!-- End profile information -->
+  
+</div>                                      
+</div> 
+<!-- end profile -->
+
+<div class="col-md-9 flexy_content" style="padding-left: 0;padding-right: 0;">
+
+<!-- verticalTab menu -->
+<div id="verticalTab">
+
+    <ul class="resp-tabs-list">
+        <li class="tabs-profile hi-icon-wrap hi-icon-effect-5 hi-icon-effect-5a profile" data-tab-name="profile">			
+            <span class="tite-list">profile</span>
+            <i class="fa fa-user icon_menu icon_menu_active"></i>
+        </li>
+
+        <li class="tabs-resume hi-icon-wrap hi-icon-effect-5 hi-icon-effect-5a" data-tab-name="resume"> 
+            <span class="tite-list">resume</span>
+            <i class="fa fa-tasks icon_menu"></i>
+        </li>
+
+        <li class="tabs-portfolio hi-icon-wrap hi-icon-effect-5 hi-icon-effect-5a" data-tab-name="portfolio"> 
+            <span class="tite-list">portfolio</span>
+            <i class="fa fa-briefcase icon_menu"></i>
+        </li>
+
+        <li class="tabs-blog hi-icon-wrap hi-icon-effect-5 hi-icon-effect-5a" data-tab-name="blog">
+            <span class="tite-list">blog</span>
+            <i class="fa fa-bullhorn icon_menu"></i>
+        </li>
+
+        <li class="tabs-contact hi-icon-wrap hi-icon-effect-5 hi-icon-effect-5a" data-tab-name="contact" style="margin-bottom: 48px !important;"> 
+            <span class="tite-list">contact</span>
+            <i class="fa fa-envelope icon_menu"></i> 
+        </li>
+
+        <a href="#" id="print"><i class="fa fa-print icon_print"></i> </a>
+        <a href="#" id="downlowd"><i class="fa fa-download icon_print"></i> </a>
+    </ul>
+    <!-- /resp-tabs-list -->
+
+
+
+<!-- resp-tabs-container --> 
+<div class="resp-tabs-container">
+
+{% include /profile.html %}
+
+{% include /cv.html %}
+
+
+{% include /portfolio.html %}
+
+
+{% include /blog.html %}
+
+{% include /contact.html %}
+
+
+</div>
+<!-- End #resp-tabs-container --> 
+
+</div><!-- End verticalTab -->
+
+</div><!-- End flexy_content -->
+
+
+</div><!-- End row -->
+
+</div><!-- End col-md-12 -->
+
+</div><!-- End row -->
+
+</div><!-- End container -->
+
+</section>
+<!-- End Content -->
+
+</div>
+<!-- End wrapper -->
+
+<!-- Switcher -->
+<!-- <div id="custumize-style">
+    <h2>Style Selector<a href="#" class="switcher"><i class="fa fa-cogs icon-switcher"></i></a></h2>
+    <div>
+        <h3>Theme Color</h3>
+        <ul class="colors-style" id="color1">
+
+            <li><a href="#" class="gray"></a></li>
+            <li><a href="#" class="green"></a></li>
+            <li><a href="#" class="blue"></a></li>
+            <li><a href="#" class="red"></a></li>
+            <li><a href="#" class="yellow"></a></li>
+
+            <li><a href="#" class="DarkBlue"></a></li>
+            <li><a href="#" class="orange"></a></li>
+            <li><a href="#" class="rose"></a></li>
+            <li><a href="#" class="lightseagreen"></a></li>
+            <li><a href="#" class="darkolivegreen"></a></li>
+
+        </ul>
+    </div>
+    <div> 
+
+        <h3 class="layouts">Profile Image</h3>
+        <div id="show">
+
+            <div class="clean-check">
+
+                <input type="radio" id="r1" name="style_profile" value="style_profile_1" checked="checked" />
+                <label for="r1"><span></span>Rotating image</label>
+
+                <input type="radio" id="r2" name="style_profile" value="style_profile_2" />
+                <label for="r2"><span></span>Fixed image</label>
+
+            </div>
+        </div>
+
+
+        
+        <h3 class="layouts">Page Builder</h3>
+        <div id="show">
+            <div class="clean-check" style="padding-left: 30px;">
+
+                <input type="radio" id="pb1" name="page_builder" value="http://demo.flexy-codes.com/FlexyVcard"  checked />
+                <label for="pb1"><span></span>Style 1</label>
+
+                <input type="radio" id="pb2" name="page_builder" value="page-builder-2.html"  />
+                <label for="pb2"><span></span>Style 2</label>
+
+                <input type="radio" id="pb3" name="page_builder" value="page-builder-3.html"  />
+                <label for="pb3"><span></span>Style 3</label>
+
+                <input type="radio" id="pb4" name="page_builder" value="page-builder-4.html"  />
+                <label for="pb4"><span></span>Style 4</label>
+            </div>
+        </div>      
+
+        <h3 class="layouts">Page Animation</h3>
+        <div id="show">
+
+            <select name="one" class="dropdown-select">
+                <optgroup label="Bouncing Entrances">
+                    <option value="bounceIn" selected>bounceIn</option>
+                    <option value="bounceInDown">bounceInDown</option>
+                    <option value="bounceInLeft">bounceInLeft</option>
+                    <option value="bounceInRight">bounceInRight</option>
+                    <option value="bounceInUp">bounceInUp</option>
+                </optgroup>
+
+                <optgroup label="Fading Entrances">
+                    <option value="fadeIn">fadeIn</option>
+                    <option value="fadeInDown">fadeInDown</option>
+                    <option value="fadeInLeft">fadeInLeft</option>
+                    <option value="fadeInRight">fadeInRight</option>
+                    <option value="fadeInUp">fadeInUp</option>
+                </optgroup>      
+            </select>
+
+        </div>
+
+        <h3 class="layouts" style="padding-top:5px">Background Style</h3>
+        <div id="show">
+
+            <div class="clean-check">
+
+				<input type="radio" id="s1" name="layout" value="bg_color" checked="checked" />
+                <label for="s1"><span></span>Color</label>
+                
+                <input type="radio" id="s2" name="layout" value="bg_slider" />
+                <label for="s2"><span></span>Slider</label>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <div> 
+        <h3>Background Color</h3>
+        <ul class="colors-style bgsolid" id="bgsolid">
+            <li><a href="#" class="gray-bg"></a></li>
+            <li><a href="#" class="green-bg"></a></li>
+            <li><a href="#" class="blue-bg"></a></li>
+            <li><a href="#" class="red-bg"></a></li>
+            <li><a href="#" class="yellow-bg"></a></li>
+        </ul>
+    </div> 
+
+    <div>  
+        <h3>Background Image</h3>
+        <ul class="colors-style bg" id="bg">
+            <li><a href="#" class="bg1"></a></li>
+            <li><a href="#" class="bg2"></a></li>
+            <li><a href="#" class="bg3"></a></li>
+            <li><a href="#" class="bg4"></a></li>
+            <li><a href="#" class="bg5"></a></li>
+        </ul>
+    </div>
+
+    <div id="button-reset"><a href="#" class="button color blue boxed">Reset</a></div>
+</div> -->
+<!-- End Switcher -->
+
+
+
+
+
+
+       

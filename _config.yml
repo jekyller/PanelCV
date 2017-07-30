@@ -1,0 +1,23 @@
+
+title: My Resume
+url: 'http://junlulocky.com'
+baseurl: '/PanelCV' #change it according to your repository name
+
+
+
+# Profile information
+yourname: Brown Smith  ## put your name
+title: 'GRAPHIC &amp; WEB DESIGNER'  ## your title
+location: San Francisco , CA
+
+
+## Social Profiles
+facebook: http://www.facebook.com  ## your facebook account url
+twitter: http://www.twitter.com  ## your twitter account url
+linkedin: http://www.linkedin.com  ## your linkedin account url
+dribbble: http://www.dribble.com  ## you dribbble account url
+foursquare: http://www.foursquare.com  ## your foursquare account url
+
+
+
+# Update all the sections by editing the files inside _includes folder.
