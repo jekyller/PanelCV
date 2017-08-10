@@ -16,3 +16,8 @@ The theme would look like this
 - Your new site should be ready at https://username.github.io/PanelCV/
 
 Check out for more themes: [Jekyll Themes](http://jekylltheme.org)
+
+
+# Author
+
+- [Locky](https://github.com/junlulocky)
