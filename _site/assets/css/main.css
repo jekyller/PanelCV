@@ -97,9 +97,35 @@ h1 {
     background: none;
 }
 
+
+
+.a-footer {
+    color: #ffffff;
+    background: transparent
+}
+.a-footer:focus {
+    outline: thin dotted
+}
+.a-footer:active,
+.a-footer:hover {
+    outline: 0
+}
+
 a {
     color: #ffffff;
     text-decoration: none !important;
+}
+
+a {
+    color: #3b5998;
+    background: transparent
+}
+a:focus {
+    outline: thin dotted
+}
+a:active,
+a:hover {
+    outline: 0
 }
 
 .copyrights{text-indent:-9999px;height:0;line-height:0;font-size:0;overflow:hidden;}
