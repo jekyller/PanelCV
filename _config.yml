@@ -7,7 +7,7 @@ baseurl: '/PanelCV' #change it according to your repository name
 
 # Profile information
 yourname: Saul R Alvarez  ## put your name
-title: 'DevOps engineer'  ## your title
+title: 'DevOps Engineer & Big Data Solutions'  ## your title
 location: Madrid, Spain
 
 
@@ -15,8 +15,9 @@ location: Madrid, Spain
 facebook: http://www.facebook.com  ## your facebook account url
 twitter: http://www.twitter.com  ## your twitter account url
 linkedin: http://www.linkedin.com  ## your linkedin account url
-dribbble: http://www.dribble.com  ## you dribbble account url
-foursquare: http://www.foursquare.com  ## your foursquare account url
+#dribbble: http://www.dribble.com  ## you dribbble account url
+
+#foursquare: http://www.foursquare.com  ## your foursquare account url
 
 
 
