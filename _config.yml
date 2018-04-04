@@ -1,4 +1,4 @@
-remote_theme:PanelCV
+remote_theme: PanelCV
 title: My Resume
 url: 'http://junlulocky.com'
 baseurl: '/PanelCV' #change it according to your repository name
