@@ -1,4 +1,4 @@
-
+remote_theme:PanelCV
 title: My Resume
 url: 'http://junlulocky.com'
 baseurl: '/PanelCV' #change it according to your repository name
@@ -6,9 +6,9 @@ baseurl: '/PanelCV' #change it according to your repository name
 
 
 # Profile information
-yourname: Brown Smith  ## put your name
-title: 'GRAPHIC &amp; WEB DESIGNER'  ## your title
-location: San Francisco , CA
+yourname: Jayden Chau  ## put your name
+title: 'HKUST student'  ## your title
+location: Hong Kong Chuna
 
 
 ## Social Profiles
