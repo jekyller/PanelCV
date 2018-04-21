@@ -1,4 +1,4 @@
-
+remote_theme: PanelCV
 title: My Resume
 url: 'http://junlulocky.com'
 baseurl: '/PanelCV' #change it according to your repository name
@@ -6,17 +6,14 @@ baseurl: '/PanelCV' #change it according to your repository name
 
 
 # Profile information
-yourname: Brown Smith  ## put your name
-title: 'GRAPHIC &amp; WEB DESIGNER'  ## your title
-location: San Francisco , CA
+yourname: Jayden Chau  ## put your name
+title: 'HKUST student'  ## your title
+location: Hong Kong China
 
 
 ## Social Profiles
-facebook: http://www.facebook.com  ## your facebook account url
-twitter: http://www.twitter.com  ## your twitter account url
-linkedin: http://www.linkedin.com  ## your linkedin account url
-dribbble: http://www.dribble.com  ## you dribbble account url
-foursquare: http://www.foursquare.com  ## your foursquare account url
+facebook: https://www.facebook.com/pakkeic  ## your facebook account url
+linkedin: https://www.linkedin.com/in/pak-kei-chau-93382212b/  ## your linkedin account url
 
 
 
